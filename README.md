@@ -2,13 +2,13 @@
 - Roguelike shooting game coded with pygame.
 
 ## Currently this game has
-- 10 different enemies, 2 of which are boss.
+- 10 different enemies, 2 of which are bosses.
 - 54 different items including weapon, armor, totem, tool and one time items.
 - 47 inspect scenarios
 - 13 encounters
 
 ## Future development plans
-- Make item equipment, usage more intuitive.
+- Make item equipment, usage UI more intuitive.
 - Make market UI more intuitive.
 - Add more encounters.
 - New BGM for the bossfight.
