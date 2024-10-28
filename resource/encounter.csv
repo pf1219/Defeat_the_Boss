@@ -1,0 +1,13 @@
+1,An old man is offering you a drink. Will you take it?,A. Yes!,B. No!,It was a poison! HP -3,Nothing Happened.
+2,You encountered a cat. Will you touch it?,A. Yes!,B. No!,It attacked you! HP -3,Nothing Happened.
+3,There's 2 doors infront of you. You will open・,A. The left door,B. The right door,There's a treasure! GOLD +7,There's a speed potion! Attack Cooltime -3
+4,An old woman is asking for a help? Will you help her?,A. Yes!,B. No!,She thanked you. GOLD +5,She is angry with you. HP -3
+5,There's 2 doors infront of you. You will open・,A. The left door,B. The right door,There's a strength potion! Attack Strength +1,There's a cold water! HP +3
+6,A boy is offering you an assistance. You need..,A. Rest,B. Skill,HP +4,EXP +6
+7,A girl is offering you an assistance. You need..,A. Treatment,B. Speed,HP +6,Move Speed +2
+8,A man is selling a book. You need・,A. Intermediate Combat Manual,B. WHO COVID-19 guideline,EXP +7,HP +4
+9,You found a pork! Will you eat it?,A. Yes!,B. No!,Not sure if the pork is spoiled. HP ?,Nothing Happened.
+10,A woman is selling a book. You need・,A. Advanced Combat Manual,B. Medical Textbook,EXP +10,"EXP +9, HP +2"
+11,You encountered a lion. What will you do?,A. Fight!,B. Run!,"HP -8, EXP +10",HP -4
+12,There's 2 doors infront of you. You will open・,A. The left door,B. The right door,There's an aspirin! HP +6,There's a trap! HP -3
+13,You found a treasure box. Will you open it?,A. Yes!,B.No!,There's a philosophy textbook! EXP +5,Nothing Happened.
