@@ -203,7 +203,7 @@ while True:
             if event.key==K_q:
                 you_HP=0
                 end=1
-            if event.key==K_c:
+            if event.key==K_KP_1:
                 end=1
             if event.key==K_x and tool_used==0:
                 tool_used=1
