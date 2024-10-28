@@ -84,6 +84,11 @@ while True:
     write2('SEED: '+str(seed),15,(127,127,127),(1820,1065))
     game_end=0
 
+    QUIT=Rect(0,0,180,80)
+    QUIT.center=(165,750)
+    py.draw.rect(win2,(244,0,0),QUIT)
+    write2("QUIT",50,(255,255,255),QUIT.center)
+
     level=LV(EXP)
     floor=level
     if floor>7:
@@ -145,6 +150,9 @@ while True:
                         exploration=exploration-1
                         defeated_chunk.append(chunk.copy())
             if event.key==K_q:
+                game_end=1
+        elif event.type==MOUSEBUTTONDOWN:
+            if QUIT.collidepoint(event.pos):
                 game_end=1
 
     if map2[chunk[0]][chunk[1]][pos[0]][pos[1]]==1 and ([chunk,pos] in visited)==False:

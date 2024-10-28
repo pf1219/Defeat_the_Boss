@@ -41,6 +41,11 @@ while True:
     in_range()
     tool_used=0
 
+    QUIT=Rect(0,0,180,80)
+    QUIT.center=(165,695)
+    py.draw.rect(win2,(244,0,0),QUIT)
+    write2("QUIT",50,(255,255,255),QUIT.center)
+
     for event in py.event.get():
         if event.type==KEYDOWN:
             if event.key==K_DOWN or event.key==K_KP_5:
@@ -56,6 +61,9 @@ while True:
                 if (pos[0]-1) in range(floor+3):
                     pos[0]=pos[0]-1
             if event.key==K_q:
+                game_end=1
+        elif event.type==MOUSEBUTTONDOWN:
+            if QUIT.collidepoint(event.pos):
                 game_end=1
 
     if map[pos[0]][pos[1]]==1 and (pos in visited)==False:
