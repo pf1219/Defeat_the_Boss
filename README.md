@@ -15,6 +15,7 @@
 
 ## Release note
 - Beta 0.1 (2024.10.28): First beta version.
+- Beta 0.11 (2024.10.28)
 
 ## Download
 https://github.com/pf1219/Defeat_the_Boss/releases/tag/Beta2
