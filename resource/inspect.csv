@@ -1,0 +1,47 @@
+event,11,You found a orange juice!,HP +2
+event,12,You encountered a snake!,HP -1
+event,13,You encountered a lion!,HP -2
+event,14,You found a strength potion!,Attack Strength +1
+event,15,You found a double strength potion!,"Attack Strength +2, Move Speed -4"
+event,16,You encountered a rabbit!,"HP -1, Move Speed +2"
+event,17,You are attacked by a dog!,HP -3
+event,18,You found a vending machine!,"HP +4, GOLD -3"
+event,19,You found a water bottle!,"HP +2, EXP +5"
+event,20,You encountered a health trainer!,"HP -2, Attack Strength +1, Attack Cooltime -2"
+event,21,You are attacked by a tiger!,"HP -10, EXP +20"
+item,1,Bow,
+item,2,Cotton Armor,
+item,3,Spyglass,
+item,4,Golden Apple,
+item,5,Diamond Melon,
+item,6,Regeneration Potion,
+item,7,Leather Armor,
+item,8,Crossbow,
+item,9,Golden Carrot,
+item,10,Lucky Totem,
+event,22,You found a bronze coin!,GOLD +3
+event,23,You found a silver coin!,GOLD +6
+event,24,You found a golden coin!,GOLD +8
+event,25,You found a gold nugget!,GOLD +10
+event,26,You found a golden frog!,"GOLD +15, HP -2"
+event,27,You found a beginner combat manual!,EXP +2
+event,28,You found a basic combat manual!,EXP +5
+event,29,You found a intermediate combat manual!,EXP +7
+event,30,You found a advanced combat manual!,EXP +10
+event,31,You found a math textbook!,EXP +3
+event,32,You found a science textbook!,EXP +6
+event,33,You found a medical textbook!,"EXP +9, HP +2"
+event,34,You encountered a doctor!,HP +6
+event,35,You found a diamont coin!,GOLD +12
+event,36,You found a WHO COVID-19 guideline!,HP +4
+event,37,You found a super strength potion!,Attack Strength +2
+event,38,You found a TV,EXP +4
+event,39,You found a watermelon juice!,HP +3
+event,40,You encountered a cheetah!,"HP -3, Move Speed +4"
+event,41,You found a emerald coin!,GOLD +9
+event,42,You found a philosophy textbook!,EXP +5
+event,43,You found a movie ticket!,"EXP +4, GOLD -2"
+event,44,You found a expert combat manual!,EXP +12
+event,45,You encountered a monkey!,"HP -1, EXP +4"
+event,46,You encountered a bear!,"HP -2, EXP +5"
+event,47,You encountered a trap!,"HP -3, EXP +3"

@@ -1,0 +1,54 @@
+weapon,1,Bow,"Attack Strength +1, Attack Cooltime +2",8,
+armor,2,Cotton Armor,"Dodge Percentage +15",10,
+weapon,3,Crossbow,"Attack Strength +2, Attack Cooltime +5",15,
+armor,4,Wood Armor,"Dodge Percentage +30, Attack Cooltime +4",15,
+one time,101,Strength Potion,Attack Strength +1,8,
+one time,102,Swift Charge Potion,Attack Cooltime -2,10,
+one time,103,Double Strength Potion,"Attack Strength +2, Move Speed -4",12,
+one time,104,Grape Juice,HP +2,4,
+one time,105,Escitalopram,HP +4,8,
+tool,5,Golden Apple,Attack Cooltime -6 (Duration: 6),10,6
+tool,6,Diamond Melon,Attack Strength +4 (Duration: 4),12,4
+tool,7,Regeneration Potion,HP +2,15,0
+tool,8,Ultimate Strength Potion,"Attack Strength +7 (Duration: 8), HP -2",16,8
+totem,9,Feather Sneakers,Move Speed +6,15,
+one time,106,Experience Bottle,EXP +10,10,
+armor,10,Diamond Armor,"Dodge Percentage +40, Move Speed -6",20,
+weapon,11,Pistol,"Attack Strength +3, Bullet Speed +5, Bullet Size -6",20,
+totem,12,Lucky Totem,Dodge Percentage +15,10,
+one time,107,Aspirin,HP +6,12,
+one time,108,Acetaminophen,HP +8,16,
+one time,109,Formoterol,HP +10,20,
+weapon,13,Shotgun,"Bullet Size +8, Bullet Speed +10",22,
+one time,110,Cold Water,"HP +3, EXP +5",10,
+tool,14,Invincible Potion,Dodge Percentage +60 (Duration: 8),15,8
+totem,15,Spyglass,Bullet Size +10,15,
+totem,16,Sneakers,Move Speed +4,10,
+armor,17,Bulletproof Vest,Dodge Percentage +40,25,
+tool,18,Docter's License,"HP +2, HP +Level",10,0
+one time,111,Medical Textbook,"EXP +9, HP +2",15,
+one time,112,Mysterious Potion,"EXP +?, HP +?",10,
+one time,113,Omeprazole,HP +12,24,
+one time,114,Super Strength Potion, Attack Strength +2,15,
+totem,19,Scope,"Bullet Size +15, Attack Cooltime +3",18,
+totem,20,Football Boots,"Move Speed +6, Attack Cooltime -2",18,
+totem,21,Cellphone,"Dodge Percentage +20, Move Speed -3",10,
+totem,22,Baseball Glove,"Bullet Speed +8",15,
+weapon,23,Axe,"Attack Strength +4, Bullet Speed -6",22,
+weapon,24,Blaster,"Bullet Speed +25, Bullet Size -4",16,
+weapon,25,Bazooka,"Attack Strength +6, Attack Cooltime +18",25,
+weapon,26,Firework,Attack Strength +3,20,
+weapon,27,Gatling Gun,"Attack Strength -1, Attack Cooltime -6",12,
+weapon,28,Rifle,"Attack Strength +3, Bullet Speed +4",22,
+weapon,29,Machine Gun,"Attack Strength +5",30,
+armor,30,Gold Armor,"Dodge Percentage +25, Move Speed -5",12,
+armor,31,Iron Armor,"Dodge Percentage +35",22,
+armor,32,Leather Armor,Dodge Percentage +20,12,
+armor,34,Quantum Armor,Dodge Percentage +50,32,
+armor,35,Elytra,"Dodge Percentage +20, Move Speed +8",30,
+armor,36,Enchanted Armor,"Dodge Percentage +45, Attack Strength -1",20,
+tool,37,Golden Carrot,Attack Strength +2 (Duration: 10),12,10
+tool,38,Silver Apple,Attack Cooltime -4 (Duration: 10),10,10
+tool,39,Golden Banana,Bullet Speed +15 (Duration: 8),10,8
+tool,40,Diamond Bread,Bullet Size +10 (Duration: 8),10,8
+one time,115,Mysterious Map,???,10,
