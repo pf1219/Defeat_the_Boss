@@ -1,7 +1,7 @@
 # Defeat the Boss, a Roguelike Adventure
 - Roguelike shooting game coded with pygame.
 
-## Currently this game contains
+## Currently this game has
 - 10 different enemies, 2 of which are boss.
 - 54 different items including weapon, armor, totem, tool and one time items.
 - 47 inspect scenarios
